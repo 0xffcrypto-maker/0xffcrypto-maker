@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0xffcrypto-maker
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning solidity
